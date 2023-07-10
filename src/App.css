@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+div{
+
+  background-color: rgb(236, 142, 158);
+}
+
+body{
+
+  background-color: aquamarine;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+ 
+
+
+
+}
+
+
